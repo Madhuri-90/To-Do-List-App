@@ -14,7 +14,7 @@ This is a simple To-Do List application that allows users to add, delete, and ma
 - JavaScript
 
 ## Live Demo:
-[Click here to view the live project](https://your-username.github.io/your-repository-name/)
+[Click here to view the live project](https://madhuri-90.github.io/To-Do-List-App/)
 
 ## How to Use:
 1. Enter a task in the input box.
